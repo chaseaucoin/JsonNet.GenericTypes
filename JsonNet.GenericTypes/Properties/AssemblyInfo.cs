@@ -5,9 +5,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("JsonNet.GenericTypes")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("A generic type resolver library for JSON.Net")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("http://cupcakefactory.net")]
 [assembly: AssemblyProduct("JsonNet.GenericTypes")]
 [assembly: AssemblyCopyright("Copyright ©  2016")]
 [assembly: AssemblyTrademark("")]
