@@ -6,7 +6,7 @@
   <authors>$author$</authors>
   <owners>$author$</owners>
   <licenseUrl>https://opensource.org/licenses/MIT</licenseUrl>
-  <projectUrl>http://PROJECT_URL_HERE_OR_DELETE_THIS_LINE</projectUrl>
+  <projectUrl>https://github.com/chaseaucoin/JsonNet.GenericTypes</projectUrl>
   <iconUrl>http://i.picresize.com/images/2016/03/13/2VqIY.png</iconUrl>
   <requireLicenseAcceptance>false</requireLicenseAcceptance>
   <description>$description$</description>
